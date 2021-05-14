@@ -66,3 +66,11 @@ npm run build
 ```
 npm run lint
 ```
+
+## Screenshots
+
+### Vista escritorio
+![](sc/desktop.png)
+
+### Vista movil
+![](sc/movil.png)
